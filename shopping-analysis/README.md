@@ -54,6 +54,7 @@ The analysis shows that product popularity is driven more by customer engagement
 * Python
 * Pandas
 * NumPy
-* Matplotlib
 * Jupyter Notebook
+* Matplotlib
+* seaborn
 
