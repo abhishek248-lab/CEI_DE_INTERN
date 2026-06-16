@@ -12,8 +12,6 @@ Steps:
 Output: Jupyter Notebook (.ipynb) + cleaned CSV + brief summary."
 
 
-
-
 # Shopping Dataset Assignment Guide
 
 ## 1. Objective
