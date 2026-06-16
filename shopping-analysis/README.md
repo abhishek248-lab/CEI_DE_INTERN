@@ -11,6 +11,7 @@ This project performs Exploratory Data Analysis (EDA) on a shopping dataset cont
 * NumPy
 * Jupyter Notebook
 * Matplotlib
+* seaborn
 
 ## Key Objectives
 
@@ -71,5 +72,4 @@ This project performs Exploratory Data Analysis (EDA) on a shopping dataset cont
 ## Conclusion
 
 The analysis shows that product popularity is driven more by customer engagement and review volume than by price or discount levels. While most products receive positive ratings, businesses should focus on increasing customer trust, improving review participation, and investing in high-performing categories. Combining rating metrics, pricing strategies, and category analysis can help organizations make more informed business decisions and achieve sustainable growth.
-* seaborn
 
