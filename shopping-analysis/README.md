@@ -55,11 +55,5 @@ The analysis shows that product popularity is driven more by customer engagement
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
 * Jupyter Notebook
 
----
-
-## Author
-
-**Shopping Dataset EDA Project**
