@@ -1,4 +1,4 @@
-"Objective: Learn Python basics and perform basic data exploration and cleaning using Pandas.
+Objective: Learn Python basics and perform basic data exploration and cleaning using Pandas.
 
 Steps:
 1.Load a CSV dataset into a Pandas DataFrame.
@@ -9,7 +9,7 @@ Steps:
 6.Create a derived column (total_amount = price * quantity).
 7.Save the cleaned dataset as a new CSV file.
 
-Output: Jupyter Notebook (.ipynb) + cleaned CSV + brief summary."
+Output: Jupyter Notebook (.ipynb) + cleaned CSV + brief summary.
 
 
 # Shopping Dataset Assignment Guide
