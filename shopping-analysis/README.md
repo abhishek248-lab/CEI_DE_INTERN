@@ -1,4 +1,4 @@
-# Shopping Dataset Analysis
+# Shopping Analysis
 
 ## Project Overview
 
