@@ -11,6 +11,9 @@ Steps:
 
 Output: Jupyter Notebook (.ipynb) + cleaned CSV + brief summary.
 
+Resources :
+https://www.kaggle.com/datasets/anvitkumar/shopping-dataset
+
 
 # Shopping Dataset Assignment Guide
 
