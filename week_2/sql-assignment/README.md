@@ -44,9 +44,6 @@ Created tables in the following order:
 - Inserted sample records into all tables using `INSERT` statements
 - Verified inserted data using `SELECT` queries
 
-### 5. Data Validation
-- Used `COUNT(*)` queries to confirm correct number of records in each table
-
 ---
 
 ##  SQL Concepts Covered
