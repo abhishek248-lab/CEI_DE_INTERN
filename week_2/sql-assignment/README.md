@@ -13,10 +13,15 @@ The project is organized into sections, with each section designed to build prac
 ---
 
 ## Project Structure
+
 Section_A/ → Basic SELECT queries and schema validation
+
 Section_B/ → Filtering data using WHERE conditions
+
 Section_C/ → Aggregation using GROUP BY and functions
+
 Section_D/ → Joins (INNER JOIN, LEFT JOIN)
+
 Section_E/ → Advanced SQL (CASE statements, transactions)
 
 ## Steps Performed
