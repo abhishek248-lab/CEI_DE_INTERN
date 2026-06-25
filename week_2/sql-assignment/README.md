@@ -1,4 +1,4 @@
-# SQL Assignment Project (MySQL)
+# SQL Assignment (MySQL)
 
 ##  Introduction
 
