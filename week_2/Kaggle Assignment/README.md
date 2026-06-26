@@ -19,4 +19,27 @@ Output: SQL script / Notebook + query results + brief insights.
 Resources :
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
+# Superstore Sales Analysis using MySQL
+
+## Overview
+
+Analyzed the Sample Superstore dataset from Kaggle using MySQL to practice SQL queries and generate business insights.
+
+## Dataset
+
+* **Source:** Kaggle
+* **Database:** MySQL
+
+## Tasks Performed
+
+* Imported and explored the dataset.
+* Applied filters and aggregations.
+* Identified top customers and sales trends.
+* Checked for duplicates and missing values.
+
+## Conclusion
+
+This project improved my SQL skills by applying queries to a real dataset. It helped me understand how SQL can be used to analyze data and support business decisions.
+
+
 
