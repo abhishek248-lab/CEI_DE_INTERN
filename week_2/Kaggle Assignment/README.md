@@ -1,3 +1,5 @@
+# Superstore Sales Analysis using MySQL
+
 Objective: Analyze sales data using SQL with filtering, aggregation, and business queries. 
 
 Steps: 1.Load dataset into a SQL database.
@@ -19,7 +21,6 @@ Output: SQL script / Notebook + query results + brief insights.
 Resources :
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-# Superstore Sales Analysis using MySQL
 
 ## Overview
 
