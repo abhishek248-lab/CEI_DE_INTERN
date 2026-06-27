@@ -1,4 +1,9 @@
-# SQL Assignment (MySQL)
+# Week 2 Task: E-Commerce Sales Database (MySQL)
+
+Scenario & Business Context :
+
+i am a Junior Data Analyst at ShopEase, a mid-sized e-commerce company that sells electronics, clothing, and home products across India. The management team wants to understand sales patterns, customer behavior, and product performance to make better business decisions.
+You have been given access to the company's relational database containing information about customers, products, orders, and order details. Your task is to write SQL queries to extract meaningful insights from this data.
 
 ##  Introduction
 
